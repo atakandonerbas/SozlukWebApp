@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.sourcelink.json
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

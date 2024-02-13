@@ -13,5 +13,10 @@ namespace SozlukWebApp.Admin
         {
 
         }
+
+        protected void lb_login_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("PanelAnasayfa.aspx");
+        }
     }
 }

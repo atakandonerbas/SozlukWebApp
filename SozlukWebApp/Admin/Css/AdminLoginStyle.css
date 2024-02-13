@@ -1,2 +1,49 @@
-﻿body {
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    background-color: #11AB78;
+    font-family: 'Trebuchet MS';
+}
+
+.loginPanel {
+    width: auto;
+}
+
+.sol {
+    float: left;
+    margin-left: 100px;
+}
+
+.sag {
+    margin-top: 220px;
+    margin-left: 50px;
+    float: left;
+}
+
+.satir {
+    margin: 20px;
+}
+
+.textBox {
+    font-size: 12pt;
+    width: 100%;
+    padding: 5px;
+    color: #484848;
+}
+
+.loginButton {
+    background-color: #17b17e;
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    font-weight: 900;
+    padding: 10px 100px;
+    margin-left: 15px;
+}
+
+    .loginButton:hover {
+        background-color: #12805c;
+    }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\SozlukWebApp\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,11 +40,19 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
