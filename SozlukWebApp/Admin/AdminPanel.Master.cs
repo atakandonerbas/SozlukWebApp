@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccessLayer;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +12,14 @@ namespace SozlukWebApp.Admin
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["admin"] != null)
+            {
+                Admins admin = (Admins)Session["admin"];
+            }
+            else
+            {
+                Response.Redirect("AdminLogin.aspx");
+            }
         }
     }
 }

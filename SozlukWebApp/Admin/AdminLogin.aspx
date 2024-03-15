@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <div class="sol">
-                <img src="Resimler/pandagiff.gif" /> 
+                <img src="Resimler/pandagiff.gif" />
             </div>
             <div class="sag">
                 <div class="satir">
@@ -30,7 +30,7 @@
                     <asp:Label ID="lbl_message" runat="server" />
                 </asp:Panel>
             </div>
-            <div style="clear:both"></div>
+            <div style="clear: both"></div>
         </div>
     </form>
 </body>

@@ -34,6 +34,10 @@ body {
     color: #484848;
 }
 
+.errorPanel{
+
+}
+
 .loginButton {
     background-color: #17b17e;
     color: white;

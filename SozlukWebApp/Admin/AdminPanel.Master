@@ -4,7 +4,8 @@
 
 <html>
 <head runat="server">
-    <title></title>
+    <title>Admin Paneli</title>
+    <link href="Css/PanelStyle.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
