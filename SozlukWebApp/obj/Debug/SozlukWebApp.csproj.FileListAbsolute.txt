@@ -33,7 +33,6 @@ C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\DataAccessLayer.pdb
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\obj\Debug\SozlukWebApp.csproj.AssemblyReference.cache
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\obj\Debug\SozlukWebApp.csproj.CoreCompileInputs.cache
-C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\obj\Debug\SozlukWebApp.csproj.CopyComplete
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\obj\Debug\SozlukWebApp.dll
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\obj\Debug\SozlukWebApp.pdb
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
@@ -112,3 +111,4 @@ C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\pt-BR\Microsoft.Dat
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\ru\Microsoft.Data.SqlClient.resources.dll
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\GitHub\SozlukWebApp\SozlukWebApp\obj\Debug\SozlukWe.D864179C.Up2Date

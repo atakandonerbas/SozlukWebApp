@@ -21,5 +21,11 @@ namespace SozlukWebApp.Admin
                 Response.Redirect("AdminLogin.aspx");
             }
         }
+
+        protected void lbtn_cikis_Click(object sender, EventArgs e)
+        {
+            Session["admin"] = null;
+            Response.Redirect("AdminLogin.aspx");
+        }
     }
 }

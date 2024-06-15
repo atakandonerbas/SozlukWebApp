@@ -11,10 +11,26 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
+        <div class="baslik">
+            <h3>Kolay gelsin admin, nbr?  </h3>
+            <div class="cikis">
+                <asp:LinkButton runat="server" ID="lbtn_cikis" OnClick="lbtn_cikis_Click">Bugünlük istifa et :)</asp:LinkButton>
+            </div>
         </div>
+        <div class="tasiyici">
+            <div class="menu">
+                <ul>
+                    <a href="#"><li>Ekle</li></a>
+                    <a href="#"><li>Düzenle</li></a>
+                    <a href="#"><li>Etkinlik Oluştur</li></a>
+                </ul>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+
     </form>
 </body>
 </html>
