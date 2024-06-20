@@ -1,2 +1,63 @@
-﻿body {
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    font-family: Calibri;
+}
+
+.baslik {
+    float: left;
+    width: 100%;
+    min-height: 50px;
+    background-color: lightgreen;
+    border-bottom: 1px solid silver;
+}
+
+    .baslik h2 {
+        padding:20px;
+    }
+
+    .baslik .cikis {
+        float: right;
+        text-decoration:none;
+        padding-right: 25px;
+        padding-bottom: 15px;
+    }
+
+.tasiyici {
+    margin: auto;
+    width: auto;
+    padding: 10px;
+}
+
+    .tasiyici .menu {
+        float: left;
+        list-style: none;
+        padding: 20px 30px;
+        font-weight: 500;
+        color: white;
+        border-bottom: 1px solid silver;
+    }
+
+        .tasiyici .menu ul {
+            list-style-type: none;
+        }
+
+            .tasiyici .menu ul a {
+                text-decoration: none;
+            }
+
+                .tasiyici .menu ul a li {
+                    padding: 5px 15px;
+                    float: left;
+                }
+
+                    .tasiyici .menu ul a li:hover {
+                        background-color: lightgreen;
+                    }
+                    .tasiyici .icerik {
+                        text-align: center;
+                    }
+    

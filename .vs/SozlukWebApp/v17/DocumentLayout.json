@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\admin\\adminpanel.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\admin\\adminpanel.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\admin\\adminpanel.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\admin\\adminpanel.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,34 +13,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 301,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminLogin.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Admin\\AdminLogin.aspx",
-              "RelativeDocumentMoniker": "SozlukWebApp\\Admin\\AdminLogin.aspx",
-              "ToolTip": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Admin\\AdminLogin.aspx",
-              "RelativeToolTip": "SozlukWebApp\\Admin\\AdminLogin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-15T09:38:09.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminPanel.Master.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Admin\\AdminPanel.Master.cs",
-              "RelativeDocumentMoniker": "SozlukWebApp\\Admin\\AdminPanel.Master.cs",
-              "ToolTip": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Admin\\AdminPanel.Master.cs",
-              "RelativeToolTip": "SozlukWebApp\\Admin\\AdminPanel.Master.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAIAwwBwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T09:40:58.587Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
@@ -60,7 +30,7 @@
               "RelativeToolTip": "SozlukWebApp\\Admin\\AdminPanel.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-15T09:35:35.437Z",
+              "WhenOpened": "2024-06-20T11:00:18.572Z",
               "EditorCaption": ""
             }
           ]

@@ -172,6 +172,8 @@
     <Content Include="Admin\AdminLogin.aspx" />
     <Content Include="Admin\Css\AdminLoginStyle.css" />
     <Content Include="Admin\Css\PanelStyle.css" />
+    <Content Include="Admin\Duzenle.aspx" />
+    <Content Include="Admin\Ekle.aspx" />
     <Content Include="Admin\PanelAnasayfa.aspx" />
     <Content Include="Admin\Resimler\pandagiff.gif" />
     <Content Include="Web.config" />
@@ -190,6 +192,20 @@
     </Compile>
     <Compile Include="Admin\AdminPanel.Master.designer.cs">
       <DependentUpon>AdminPanel.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Duzenle.aspx.cs">
+      <DependentUpon>Duzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Duzenle.aspx.designer.cs">
+      <DependentUpon>Duzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Ekle.aspx.cs">
+      <DependentUpon>Ekle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Ekle.aspx.designer.cs">
+      <DependentUpon>Ekle.aspx</DependentUpon>
     </Compile>
     <Compile Include="Admin\PanelAnasayfa.aspx.cs">
       <DependentUpon>PanelAnasayfa.aspx</DependentUpon>
