@@ -13,6 +13,7 @@
     <form id="form1" runat="server">
         <div class="baslik">
             <h2>Kolay gelsin admin, nbr?  </h2>
+            
             <div class="cikis">
                 <asp:LinkButton runat="server" ID="lbtn_cikis" OnClick="lbtn_cikis_Click">Bugünlük istifa et</asp:LinkButton>
             </div>
@@ -27,12 +28,25 @@
                 </ul>
             </div>
             <div style="clear:both"></div>
+            <div class="monster">
+                <img src="Resimler/monster%20sol.gif" class="img-responsive" />
+            </div>
             <div class="icerik">
                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                 </asp:ContentPlaceHolder>
             </div>
+            <div class="monster">
+                <img src="Resimler/monster.gif" class="img-responsive"/> 
+            </div>
         </div>
         <div style="clear:both"></div>
+        <footer class="footer">
+            Bilgiler buraya bremın <br />
+            Bilgi sınırı olmayan bir denizdir.<br />
+            Nereye dönersen dön popon arkandadır.<br />
+            zartzort.hatmayıl.com<br />
+            +90 535 353 5335<br />
+        </footer>
     </form>
 </body>
 </html>

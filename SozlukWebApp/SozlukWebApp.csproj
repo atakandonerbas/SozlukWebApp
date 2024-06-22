@@ -175,6 +175,8 @@
     <Content Include="Admin\Duzenle.aspx" />
     <Content Include="Admin\Ekle.aspx" />
     <Content Include="Admin\PanelAnasayfa.aspx" />
+    <Content Include="Admin\Resimler\monster sol.gif" />
+    <Content Include="Admin\Resimler\monster.gif" />
     <Content Include="Admin\Resimler\pandagiff.gif" />
     <Content Include="Web.config" />
   </ItemGroup>

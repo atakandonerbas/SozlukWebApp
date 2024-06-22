@@ -4,32 +4,43 @@
 }
 
 body {
-    font-family: Calibri;
+    font-family: Arial;
 }
 
 .baslik {
     float: left;
     width: 100%;
     min-height: 50px;
-    background-color: lightgreen;
-    border-bottom: 1px solid silver;
+    background-color: lightskyblue;
 }
 
     .baslik h2 {
-        padding:20px;
+        padding: 20px;
+        font-family: Georgia;
     }
 
+    
+
     .baslik .cikis {
-        float: right;
-        text-decoration:none;
-        padding-right: 25px;
-        padding-bottom: 15px;
+        float: left;
+        padding-bottom: 20px;
+        padding-left: 20px;
     }
+
+        .baslik .cikis a {
+            text-decoration: none;
+            color: black;
+            padding: 5px;
+        }
+
+            .baslik .cikis a:hover {
+                background-color: deepskyblue;
+            }
 
 .tasiyici {
     margin: auto;
-    width: auto;
-    padding: 10px;
+    width: 100%;
+    background-color: deepskyblue;
 }
 
     .tasiyici .menu {
@@ -38,7 +49,6 @@ body {
         padding: 20px 30px;
         font-weight: 500;
         color: white;
-        border-bottom: 1px solid silver;
     }
 
         .tasiyici .menu ul {
@@ -52,12 +62,32 @@ body {
                 .tasiyici .menu ul a li {
                     padding: 5px 15px;
                     float: left;
+                    color: black;
                 }
 
                     .tasiyici .menu ul a li:hover {
-                        background-color: lightgreen;
+                        background-color: lightskyblue
                     }
-                    .tasiyici .icerik {
-                        text-align: center;
-                    }
-    
+
+.img-responsive {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.tasiyici .icerik {
+    float: left;
+    text-align: center;
+    background-color: white;
+    height: 510px;
+    width: 60%;
+}
+
+
+.footer {
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    background-color: deepskyblue;
+}
