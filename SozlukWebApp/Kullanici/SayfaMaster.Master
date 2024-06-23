@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SayfaMaster.master.cs" Inherits="SozlukWebApp.Kullanici.SayfaMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="css/SayfaCss.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h2>Başlık</h2>
+        </div>
+        <div>
+            Menu
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer>
+            Bilgiler buraya bremın
+            <br />
+            Bilgi sınırı olmayan bir denizdir.<br />
+            Nereye dönersen dön popon arkandadır.<br />
+            zartzort.hatmayıl.com<br />
+            +90 535 353 5335<br />
+        </footer>
+    </form>
+</body>
+</html>

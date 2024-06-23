@@ -178,6 +178,8 @@
     <Content Include="Admin\Resimler\monster sol.gif" />
     <Content Include="Admin\Resimler\monster.gif" />
     <Content Include="Admin\Resimler\pandagiff.gif" />
+    <Content Include="Kullanici\Anasayfa.aspx" />
+    <Content Include="Kullanici\css\SayfaCss.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -216,10 +218,25 @@
     <Compile Include="Admin\PanelAnasayfa.aspx.designer.cs">
       <DependentUpon>PanelAnasayfa.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Kullanici\Anasayfa.aspx.cs">
+      <DependentUpon>Anasayfa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kullanici\Anasayfa.aspx.designer.cs">
+      <DependentUpon>Anasayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici\SayfaMaster.Master.cs">
+      <DependentUpon>SayfaMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kullanici\SayfaMaster.Master.designer.cs">
+      <DependentUpon>SayfaMaster.Master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Admin\AdminPanel.Master" />
+    <Content Include="Kullanici\SayfaMaster.Master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -235,7 +252,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Sayfa\" />
+    <Folder Include="Kullanici\resim\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
