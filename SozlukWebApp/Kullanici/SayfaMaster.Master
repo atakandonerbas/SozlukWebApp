@@ -11,24 +11,41 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            <h2>Başlık</h2>
+        <div class="header">
+            <div class="logo">
+                <img src="resim/logo.png" />
+            </div>
+            <div class="menu">
+                <ul>
+                    <a href="#">Buralar</a>
+                    <a href="#">Hep</a>
+                    <a href="#">Dolacak</a>
+                </ul>
+            </div>
         </div>
-        <div>
-            Menu
+        <div class="tasiyici">
+
+            <div class="searchbar">
+                <input type="text" placeholder="Kelime ara...">
+            </div>
+            <div style="clear:both"></div>
+            <div class="buton">
+                <button>Ara</button>
+            </div>
+            <div class="icerik">    
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <footer class="footer">
+                Bilgiler buraya bremın<br />
+                Bilgi sınırı olmayan bir denizdir.<br />
+                Nereye dönersen dön popon arkandadır.<br />
+                zartzort.hatmayıl.com<br />
+                +90 535 353 5335<br />
+            </footer>
+
         </div>
-        <div>
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
-        </div>
-        <footer>
-            Bilgiler buraya bremın
-            <br />
-            Bilgi sınırı olmayan bir denizdir.<br />
-            Nereye dönersen dön popon arkandadır.<br />
-            zartzort.hatmayıl.com<br />
-            +90 535 353 5335<br />
-        </footer>
+
     </form>
 </body>
 </html>

@@ -180,6 +180,7 @@
     <Content Include="Admin\Resimler\pandagiff.gif" />
     <Content Include="Kullanici\Anasayfa.aspx" />
     <Content Include="Kullanici\css\SayfaCss.css" />
+    <Content Include="Kullanici\resim\logo.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -251,9 +252,7 @@
       <Name>DataAccessLayer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Kullanici\resim\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\kullanici\\css\\sayfacss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\kullanici\\css\\sayfacss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\kullanici\\sayfamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\kullanici\\sayfamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\kullanici\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\kullanici\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\kullanici\\css\\sayfacss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\kullanici\\css\\sayfacss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|c:\\users\\acer\\documents\\github\\sozlukwebapp\\sozlukwebapp\\kullanici\\sayfamaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750D5193-B1F1-497B-B6D1-EFC9208B6161}|SozlukWebApp\\SozlukWebApp.csproj|solutionrelative:sozlukwebapp\\kullanici\\sayfamaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,42 +21,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 269,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 392,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SayfaMaster.Master.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Kullanici\\SayfaMaster.Master.cs",
-              "RelativeDocumentMoniker": "SozlukWebApp\\Kullanici\\SayfaMaster.Master.cs",
-              "ToolTip": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Kullanici\\SayfaMaster.Master.cs",
-              "RelativeToolTip": "SozlukWebApp\\Kullanici\\SayfaMaster.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T20:30:46.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SayfaCss.css",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Kullanici\\css\\SayfaCss.css",
               "RelativeDocumentMoniker": "SozlukWebApp\\Kullanici\\css\\SayfaCss.css",
               "ToolTip": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Kullanici\\css\\SayfaCss.css",
               "RelativeToolTip": "SozlukWebApp\\Kullanici\\css\\SayfaCss.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-23T20:28:46.311Z",
+              "WhenOpened": "2024-06-28T12:16:53.925Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 512,
+          "SelectedChildIndex": 2,
+          "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Anasayfa.aspx",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Kullanici\\Anasayfa.aspx",
               "RelativeDocumentMoniker": "SozlukWebApp\\Kullanici\\Anasayfa.aspx",
@@ -68,12 +57,12 @@
               "RelativeToolTip": "SozlukWebApp\\Kullanici\\Anasayfa.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-23T19:52:47.624Z",
+              "WhenOpened": "2024-06-28T12:27:58.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SayfaMaster.Master",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\SozlukWebApp\\SozlukWebApp\\Kullanici\\SayfaMaster.Master",
               "RelativeDocumentMoniker": "SozlukWebApp\\Kullanici\\SayfaMaster.Master",

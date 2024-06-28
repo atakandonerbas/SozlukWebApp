@@ -1,3 +1,90 @@
-﻿body {
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
 }
 
+body {
+    font-family: Arial;
+    color: #333333;
+    font-size: 18px;
+}
+
+.header {
+    height: 200px;
+}
+
+    .header .logo {
+        background-color: lightpink;
+        text-align: center;
+    }
+
+        .header .logo img {
+            height: 150px;
+            width: 150px;
+        }
+
+    .header .menu {
+        height: 25%;
+        height: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+        .header .menu a {
+            text-decoration: none;
+            padding: 15px;
+            color: #333333;
+        }
+
+            .header .menu a:hover {
+                background-color: lightpink;
+            }
+
+.searchbar {
+    text-align: center;
+    margin: 10px;
+    color: lightpink;
+}
+
+    .searchbar input {
+        width: 500px;
+        height: 50px;
+        text-align: center;
+        color: dimgray;
+        border-color: lightpink;
+        border-radius: 15px;
+        font-size: 18px;
+    }
+
+.buton {
+    float: left;
+    margin: 5px;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+    .buton button {
+        cursor: pointer;
+        height: 50px;
+        width: 100px;
+        border-radius:15px;
+    }
+    .buton button:hover{
+        background-color:lightpink;
+    }
+
+.icerik {
+    min-height: 365px;
+}
+
+.footer {
+    background-color: lightpink;
+    padding: 15px;
+    height: 100px;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+}
